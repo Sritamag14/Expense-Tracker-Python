@@ -1,7 +1,6 @@
 # Expense-Tracker-Python
 This repository contains my very first Python project. I tried my hand at building an expense tracker with a menu-driven interface. 
 Following are options you'll get to store in the tracker, listed as shown:
-Expense Tracker Menu:
 1. Add Expense
 2. Remove Expense
 3. View Expenses
